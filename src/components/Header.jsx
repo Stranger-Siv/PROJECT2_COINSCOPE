@@ -1,11 +1,10 @@
-// src/components/Header.js
 import React from 'react';
 
 const Header = ({ searchTerm, setSearchTerm }) => {
   return (
     <header className="bg-gray-900 shadow-md">
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
-        <h1 className="text-2xl font-bold text-white">Crypto Tracker</h1>
+        <h1 className="text-2xl font-bold text-white">CoinScope</h1>
         <input
           type="text"
           value={searchTerm}
