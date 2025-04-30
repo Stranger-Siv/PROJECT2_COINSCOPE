@@ -2,7 +2,7 @@
 
 A sleek and responsive web app to track real-time cryptocurrency prices. Built with React, Tailwind CSS, and powered by the CoinGecko API.
 
-![screenshot] /public/screenshot.png
+![App Screenshot](./public/screenshot.png)
 <!-- optional screenshot -->
 
 ---
