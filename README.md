@@ -2,9 +2,7 @@
 
 A sleek and responsive web app to track real-time cryptocurrency prices. Built with React, Tailwind CSS, and powered by the CoinGecko API.
 
-<p align="center">
-  <img src="public/Screenshot.png" alt="App Screenshot" width="700"/>
-</p><!-- optional screenshot -->
+![App Screenshot](https://github.com/Stranger-Siv/PROJECT2_COINSCOPE/raw/master/public/Screenshot.png)
 
 ---
 
